@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vite-coupon\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+
+#, php-format
+msgid "%s should be digit"
+msgstr ""
+
+#, php-format
+msgid "%s should be numeric"
+msgstr ""
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr ""
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr ""
+
+msgid " should be hexadecimal"
+msgstr ""
+
+#, php-format
+msgid " %s are required"
+msgstr ""
+
+#, php-format
+msgid " %s is required"
+msgstr ""
+
+msgid "E004"
+msgstr ""
+
+msgid "No change for update"
+msgstr ""
+
+msgid "Saved Successfully"
+msgstr ""
+
+msgid "Vite Coupon"
+msgstr ""
+
+msgid "Missing dependency"
+msgstr ""
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+
+msgid "Coupons"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Add New Coupon"
+msgstr ""
+
+msgid "No %{type} found"
+msgstr ""
+
+msgid "Coupon List Loading ..."
+msgstr ""
+
+msgid "Initial Data Is Loading ..."
+msgstr ""
+
+msgid "Coupon code"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "Discount type"
+msgstr ""
+
+msgid "Apply To"
+msgstr ""
+
+msgid "Vitepos Outlets"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "%{ row } rows"
+msgstr ""
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Add Coupon"
+msgstr ""
+
+msgid "User Usage Limit"
+msgstr ""
+
+msgid "Coupon Usage Limit"
+msgstr ""
+
+msgid "Check this box if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale."
+msgstr ""
+
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr ""
+
+msgid "Scheduler"
+msgstr ""
+
+msgid "Coupon Settings"
+msgstr ""
+
+msgid "Allowed emails"
+msgstr ""
+
+msgid "Allowed billing emails for orders. Separate with commas. Use asterisk (*) for partial matches, like (*@gmail.com) for all Gmail addresses."
+msgstr ""
+
+msgid "Coupon Category"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Online Sale"
+msgstr ""
+
+msgid "Vitepos"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Conditions"
+msgstr ""
+
+msgid "No End date"
+msgstr ""
+
+msgid "Minimum spend"
+msgstr ""
+
+msgid "Maximum spend"
+msgstr ""
+
+msgid "Exclude products"
+msgstr ""
+
+msgid "Product categories"
+msgstr ""
+
+msgid "Exclude categories"
+msgstr ""
+
+msgid "%{fld_name} is required"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "Discount Type"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Vouchers"
+msgstr ""
+
+msgid "All Coupons"
+msgstr ""
+
+msgid "Coupon Code"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Choose Date"
+msgstr ""
+
+msgid "Upto"
+msgstr ""
+
+msgid "Percentage(%)"
+msgstr ""
+
+msgid "Add Coupon Category"
+msgstr ""
+
+msgid "Please Install Vitepos"
+msgstr ""
+
+msgid "Check this box if its allow free shipping."
+msgstr ""
+
+msgid "Always use regular price"
+msgstr ""
+
+msgid "If the sale price is available, use it by default."
+msgstr ""
+
+msgid "Always utilize the regular price, but exclusively for products subject to discounts through BOGO and Add Products coupons."
+msgstr ""
+
+msgid "Always utilize the regular price for all types of coupons."
+msgstr ""
+
+msgid "Automatically remove coupons for failed/cancelled orders"
+msgstr ""
+
+msgid "If checked, the system will automatically remove coupons from orders that have failed or been cancelled."
+msgstr ""
+
+msgid "Scheduler Settings"
+msgstr ""
+
+msgid "Scheduler Start Time Error Message"
+msgstr ""
+
+msgid "This Message will appear if the applied coupon has not yet become active."
+msgstr ""
+
+msgid "Scheduler End Time Error Message"
+msgstr ""
+
+msgid "This message will show up when attempting to apply a coupon that has already passed its expiration date."
+msgstr ""
+
+msgid "Role Restriction"
+msgstr ""
+
+msgid "Role error message"
+msgstr ""
+
+msgid "This message will be shown when the coupon is deemed invalid for the specified role."
+msgstr ""
+
+msgid "You are not allowed to use this coupon"
+msgstr ""
+
+msgid "User Usage Error Message"
+msgstr ""
+
+msgid "This message will be displayed when the user usage limit has been surpassed."
+msgstr ""
+
+msgid "Hide the coupon fields from the cart and checkout pages on the client side."
+msgstr ""
+
+msgid "Hide coupon fields"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Choose property"
+msgstr ""
+
+msgid "Enter value"
+msgstr ""
+
+msgid "Unlock Pro"
+msgstr ""
+
+msgid "Pro Version"
+msgstr ""
+
+msgid "You will get premium support"
+msgstr ""
+
+msgid "Multiple Rules Conditions"
+msgstr ""
+
+msgid "Time Scheduler"
+msgstr ""
+
+msgid "You will get these features in pro version"
+msgstr ""
+
+msgid "To unlock these features, you need"
+msgstr ""
+
+msgid "URL prefix"
+msgstr ""
+
+msgid "The prefix to be utilized preceding the coupon code."
+msgstr ""
+
+msgid "Redirect URL after applying coupon"
+msgstr ""
+
+msgid "Upon attempting to apply the coupon, users will be redirected to the provided URL."
+msgstr ""
+
+msgid "Redirect URL after applied invalid coupon"
+msgstr ""
+
+msgid "This will redirect the user to the provided URL if an invalid coupon has been applied."
+msgstr ""
+
+msgid "Success message"
+msgstr ""
+
+msgid "Users will be redirected to the provided URL in the event of applying valid coupon."
+msgstr ""
+
+msgid "Disable message"
+msgstr ""
+
+msgid "This message will appear when the functionality for coupon URLs is disabled."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Discount Amount"
+msgstr ""
+
+msgid "Pro version"
+msgstr ""
+
+msgid "pro version"
+msgstr ""
+
+msgid "You will get these features in pro version."
+msgstr ""
+
+msgid "DayTime Scheduler."
+msgstr ""
+
+msgid "Url Coupon."
+msgstr ""
+
+msgid "Smart Coupon"
+msgstr ""
+
+msgid "Buy One Get One (BOGO) Product."
+msgstr ""
+
+msgid "Premium support 24/7."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Percentage discount"
+msgstr ""
+
+msgid "Fixed cart discount"
+msgstr ""
+
+msgid "Fixed product discount"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "All Day"
+msgstr ""
+
+msgid "Loading Coupon details"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Category List Loading ..."
+msgstr ""
+
+msgid "Loading Category Details"
+msgstr ""
+
+msgid "Updating Category"
+msgstr ""
+
+msgid "Edit Coupon Category"
+msgstr ""
+
+msgid "Update Coupon"
+msgstr ""
+
+msgid "Updating Coupon..."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Message Settings"
+msgstr ""
+
+msgid "URL Settings"
+msgstr ""
+
+msgid "URL Coupons"
+msgstr ""
+
+msgid "Coupon Usage Error Message"
+msgstr ""
+
+msgid "This message will be shown when the coupon usage limit has been exceeded."
+msgstr ""
+
+msgid "You need Pro version,to use product voucher."
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "Enter Category"
+msgstr ""
+
+msgid "Enter Description"
+msgstr ""
+
+msgid "Are you sure to delete this Coupon Category?"
+msgstr ""
+
+msgid "Smart Coupon."
+msgstr ""
+
+msgid "Are you sure to delete this coupon?"
+msgstr ""
+
+msgid "Pro"
+msgstr ""
+
+msgid "categories"
+msgstr ""
+
+msgid "Not Enable"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Lifespan"
+msgstr ""
+
+msgid "Install Vitepos"
+msgstr ""
+
+msgid "Saving Coupon..."
+msgstr ""
+
+msgid "Coupon Added"
+msgstr ""
+
+msgid "Coupon Updated"
+msgstr ""
+
+msgid "Inactive coupon url"
+msgstr ""
+
+msgid "0 value will set no limit/infinite for this coupon"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Initial data is loading..."
+msgstr ""
+
+msgid "Usage/Limit"
+msgstr ""
+
+msgid "Select Outlets"
+msgstr ""
+
+msgid "Are you sure to change the status?"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Adding Category"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Sub-Directory URL"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Easy Setup"
+msgstr ""
+
+msgid "Easy to setup with your woocommerce. Add your products and sell easily."
+msgstr ""
+
+msgid "Safe and Secure System"
+msgstr ""
+
+msgid "It’s a secure, high-end, user-friendly platform with no bloatware. We promise that your data is safe and that you’re in control."
+msgstr ""
+
+msgid "All in One App"
+msgstr ""
+
+msgid "A great software that lets you manage your whole store and track inventory in the shortest time."
+msgstr ""
+
+msgid "Premium Support"
+msgstr ""
+
+msgid "We are always available 24/7 to offer support for your business needs. Appsbd has more than 5 years of experience."
+msgstr ""
+
+msgid "Install Now"
+msgstr ""
+
+msgid "Use your online store as local store with Vitepos. A Powerful Point of Sale (POS) for Restaurant Point of sale (POS) plugin for Wordpress & Woocommerce."
+msgstr ""
+
+msgid "Error:"
+msgstr ""
+
+msgid "No coupon found with this id"
+msgstr ""
+
+msgid "Update Error Exc:"
+msgstr ""
+
+msgid "Successfully added"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "No category found with these ids"
+msgstr ""
+
+msgid "Invalid Request"
+msgstr ""
+
+msgid "Successfully deleted"
+msgstr ""
+
+msgid "Delete failed try again"
+msgstr ""
+
+msgid "Successfully status changed"
+msgstr ""
+
+msgid "Invalid data"
+msgstr ""
+
+msgid "Invalid update request"
+msgstr ""
+
+msgid "Update Failed"
+msgstr ""
+
+msgid "No coupon found"
+msgstr ""
+
+msgid "Successfully outlet updated"
+msgstr ""
+
+msgid "Invalid Data"
+msgstr ""
+
+msgid "Percentage Upto"
+msgstr ""
+
+#, php-format
+msgid "Percentage Amount(%s)"
+msgstr ""

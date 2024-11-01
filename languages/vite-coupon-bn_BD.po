@@ -1,0 +1,761 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vite-coupon\n"
+"POT-Creation-Date: 2024-05-09 09:32+0000\n"
+"PO-Revision-Date: 2024-07-29 07:09+0000\n"
+"Last-Translator: Anthony L. Moore\n"
+"Language-Team: বাংলা\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s এর প্রয়োজন"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s এর প্রয়োজন"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s %s-এর থেকে কম হওয়া উচিত"
+
+msgid " should be hexadecimal"
+msgstr "হেক্সাডেসিমেল হওয়া উচিত"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s একটি বৈধ ইমেল ঠিকানা হওয়া উচিত"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s এর সংখ্যা হওয়া উচিত"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s সংখ্যাসূচক হওয়া উচিত"
+
+msgid "%{ row } rows"
+msgstr "%{ row } সারি"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} প্রয়োজন"
+
+msgid "0 value will set no limit/infinite for this coupon"
+msgstr "0 মান এই কুপনের জন্য কোন সীমা/অসীম সেট করবে না"
+
+msgid ""
+"A great software that lets you manage your whole store and track inventory "
+"in the shortest time."
+msgstr ""
+"একটি দুর্দান্ত সফ্টওয়্যার যা আপনাকে আপনার সম্পূর্ণ স্টোর পরিচালনা করতে এবং "
+"স্বল্পতম সময়ে ইনভেন্টরি ট্র্যাক করতে দেয়৷"
+
+msgid "Action"
+msgstr "অ্যাকশন"
+
+msgid "Active"
+msgstr "সক্রিয়"
+
+msgid "Add"
+msgstr "যোগ করুন"
+
+msgid "Add Coupon"
+msgstr "কুপন যোগ করুন"
+
+msgid "Add Coupon Category"
+msgstr "কুপন বিভাগ যোগ করুন"
+
+msgid "Add New Coupon"
+msgstr "নতুন কুপন যোগ করুন"
+
+msgid "Adding Category"
+msgstr "বিভাগ যোগ করা হচ্ছে"
+
+msgid "All Coupons"
+msgstr "সমস্ত কুপন"
+
+msgid "All Day"
+msgstr "সারাদিন"
+
+msgid "All in One App"
+msgstr "সব এক অ্যাপে"
+
+msgid ""
+"Allowed billing emails for orders. Separate with commas. Use asterisk (*) "
+"for partial matches, like (*@gmail.com) for all Gmail addresses."
+msgstr ""
+"অর্ডারস জন্য বিলিং  ইমেইল অনুমোদিত. কমা দিয়ে পৃথক করুন. তারকা (*) ব্যবহার "
+"করুন  আংশিক ম্যাচ করার জন্য, যেমন  (*@gmail.com) সব Gmail ঠিকানার জন্য."
+
+msgid "Allowed emails"
+msgstr "অনুমোদিত ইমেল"
+
+msgid "Always use regular price"
+msgstr "সর্বদা নিয়মিত মূল্য ব্যবহার করুন"
+
+msgid "Always utilize the regular price for all types of coupons."
+msgstr "সব ধরনের কুপনের জন্য সর্বদা নিয়মিত মূল্য ব্যবহার করুন।"
+
+msgid ""
+"Always utilize the regular price, but exclusively for products subject to "
+"discounts through BOGO and Add Products coupons."
+msgstr ""
+"সর্বদা নিয়মিত মূল্য ব্যবহার করুন, তবে একচেটিয়াভাবে BOGO এবং পণ্য যোগ করুন "
+"কুপনের মাধ্যমে ডিসকাউন্ট সাপেক্ষে পণ্যগুলির জন্য।"
+
+msgid "Apply To"
+msgstr "আবেদন"
+
+msgid "Are you sure to change the status?"
+msgstr "আপনি কি অবস্থা পরিবর্তন করার জন্য নিশ্চিত ?"
+
+msgid "Are you sure to delete this Coupon Category?"
+msgstr "আপনি এই কুপন বিভাগ মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to delete this coupon?"
+msgstr "আপনি এই কুপন মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Automatically remove coupons for failed/cancelled orders"
+msgstr "ব্যর্থ/বাতিল অর্ডারগুলির জন্য স্বয়ংক্রিয়ভাবে কুপনগুলি সরান৷"
+
+msgid "Back"
+msgstr "পেছনে"
+
+msgid "Both"
+msgstr "উভয়"
+
+msgid "Buy One Get One (BOGO) Product."
+msgstr "বাই ওয়ান গেট্ ওয়ান (বোগো) প্রোডাক্ট."
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Categories"
+msgstr "বিভাগ "
+
+msgid "categories"
+msgstr "বিভাগ"
+
+msgid "Category"
+msgstr "বিভাগ "
+
+msgid "Category List Loading ..."
+msgstr "বিভাগ তালিকা লোড হচ্ছে..."
+
+msgid "Check this box if its allow free shipping."
+msgstr "এই বাক্সটি চেক করুন যদি এটি বিনামূল্যে শিপিংয়ের অনুমতি দেয়।"
+
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr "অন্য কুপনের সাথে কুপন ব্যবহার করা না গেলে এই বক্সটি চেক করুন।"
+
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale."
+msgstr ""
+"এই বক্সটি চেক করুন যদি কুপনটি বিক্রয় করা আইটেমগুলিতে প্রযোজ্য না হয়। প্রতি "
+"আইটেম কুপন শুধুমাত্র কাজ করবে যদি আইটেম বিক্রি না হয়. প্রতি-কার্ট কুপন "
+"শুধুমাত্র তখনই কাজ করবে যদি কার্টে এমন আইটেম থাকে যা বিক্রি হয় না।"
+
+msgid "Choose Date"
+msgstr "তারিখ নির্বাচন করুন"
+
+msgid "Choose property"
+msgstr "সম্পত্তি চয়ন করুন"
+
+msgid "Close"
+msgstr "বন্ধ"
+
+msgid "Conditions"
+msgstr "শর্তাবলী"
+
+msgid "Coupon"
+msgstr "কুপন"
+
+msgid "Coupon Added"
+msgstr "কুপন যোগ করুন"
+
+msgid "Coupon Category"
+msgstr "কুপন বিভাগ"
+
+msgid "Coupon Code"
+msgstr "কুপন কোড"
+
+msgid "Coupon code"
+msgstr "কুপন কোড"
+
+msgid "Coupon List Loading ..."
+msgstr "কুপন তালিকা লোড হচ্ছে..."
+
+msgid "Coupon Settings"
+msgstr "কুপন সেটিংস"
+
+msgid "Coupon Updated"
+msgstr "কুপন আপডেট করুন "
+
+msgid "Coupon Usage Error Message"
+msgstr "কুপন ব্যবহার ত্রুটি বার্তা"
+
+msgid "Coupon Usage Limit"
+msgstr "কুপন ব্যবহারের সীমা"
+
+msgid "Coupons"
+msgstr "কুপন"
+
+msgid "DayTime Scheduler."
+msgstr "দিনের সময় নির্ধারণকারী।"
+
+msgid "Delete"
+msgstr "মুছে ফেলা"
+
+msgid "Delete failed try again"
+msgstr "মুছে ফেলতে ব্যর্থ আবার চেষ্টা করুন"
+
+msgid "Description"
+msgstr "বর্ণনা"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "Disable message"
+msgstr "বার্তা অক্ষম করুন"
+
+msgid "Discount Amount"
+msgstr "ডিসকাউন্ট এমাউন্ট"
+
+msgid "Discount Type"
+msgstr "ডিসকাউন্ট টাইপ"
+
+msgid "Discount type"
+msgstr "ছাড়ের ধরন"
+
+msgid "Draft"
+msgstr "খসড়া"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "Easy Setup"
+msgstr "সহজ সেটআপ"
+
+msgid "Easy to setup with your woocommerce. Add your products and sell easily."
+msgstr ""
+"আপনার ওয়ার্ডপ্রেস সঙ্গে সেটআপ করা সহজ. আপনার পণ্য যোগ করুন এবং সহজে বিক্রি."
+
+msgid "Edit"
+msgstr "সম্পাদনা করুন"
+
+msgid "Edit Coupon Category"
+msgstr "কুপন বিভাগ সম্পাদনা করুন"
+
+msgid "End Date"
+msgstr "শেষ তারিখ"
+
+msgid "End date"
+msgstr "শেষ তারিখ"
+
+msgid "Enter Category"
+msgstr "ক্যাটাগরি লিখুন"
+
+msgid "Enter Description"
+msgstr "বর্ণনা লিখুন"
+
+msgid "Enter value"
+msgstr "মান লিখুন"
+
+msgid "Error:"
+msgstr "ত্রুটি:"
+
+msgid "Exclude categories"
+msgstr "বিভাগগুলি বাদ দিন"
+
+msgid "Exclude products"
+msgstr "পণ্য বাদ"
+
+msgid "Finish"
+msgstr "শেষ"
+
+msgid "Fixed cart discount"
+msgstr "ফিক্সড কার্ট ডিসকাউন্ট"
+
+msgid "Fixed product discount"
+msgstr "ফিক্সড প্রোডাক্ট ডিসকাউন্ট"
+
+msgid "Friday"
+msgstr "শুক্রবার"
+
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+msgid "Hide coupon fields"
+msgstr "কুপন ক্ষেত্র লুকান"
+
+msgid ""
+"Hide the coupon fields from the cart and checkout pages on the client side."
+msgstr ""
+"ক্লায়েন্ট সাইডে কার্ট এবং চেকআউট পৃষ্ঠাগুলি থেকে কুপন ক্ষেত্রগুলি লুকান৷"
+
+msgid ""
+"If checked, the system will automatically remove coupons from orders that "
+"have failed or been cancelled."
+msgstr ""
+"চেক করা থাকলে, সিস্টেম স্বয়ংক্রিয়ভাবে ব্যর্থ বা বাতিল হওয়া অর্ডারগুলি "
+"থেকে কুপনগুলি সরিয়ে ফেলবে৷"
+
+msgid "If the sale price is available, use it by default."
+msgstr "বিক্রয় মূল্য উপলব্ধ হলে, ডিফল্টরূপে এটি ব্যবহার করুন."
+
+msgid "Inactive"
+msgstr "নিষ্ক্রিয়"
+
+msgid "Inactive coupon url"
+msgstr "নিষ্ক্রিয় কুপন URL"
+
+msgid "Initial Data Is Loading ..."
+msgstr "প্রাথমিক ডেটা লোড হচ্ছে..."
+
+msgid "Initial data is loading..."
+msgstr "প্রাথমিক তথ্য লোড হচ্ছে..."
+
+msgid "Install Now"
+msgstr "এখন ইন্সটল করুন"
+
+msgid "Install Vitepos"
+msgstr "Vitepos ইনস্টল করুন"
+
+msgid "Invalid Data"
+msgstr "অবৈধ তথ্য"
+
+msgid "Invalid data"
+msgstr "অবৈধ তথ্য"
+
+msgid "Invalid Request"
+msgstr "অনুরোধ অগ্রহণযোগ্য"
+
+msgid "Invalid request"
+msgstr "অনুরোধ অগ্রহণযোগ্য"
+
+msgid "Invalid update request"
+msgstr "অবৈধ আপডেট অনুরোধ"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+"এটির জন্য ওয়ার্ডপ্রেস প্রয়োজন, অনুগ্রহ করে প্রথমে ওয়ার্ডপ্রেস ইনস্টল করুন"
+
+msgid ""
+"It’s a secure, high-end, user-friendly platform with no bloatware. We "
+"promise that your data is safe and that you’re in control."
+msgstr ""
+"এটি একটি নিরাপদ, হাই-এন্ড, ব্যবহারকারী-বান্ধব প্ল্যাটফর্ম যার কোনো "
+"ব্লোটওয়্যার নেই। আমরা প্রতিশ্রুতি দিচ্ছি যে আপনার ডেটা নিরাপদ এবং আপনি "
+"নিয়ন্ত্রণে আছেন।"
+
+msgid "Lifespan"
+msgstr "সময়সীমা"
+
+msgid "Loading Category Details"
+msgstr "বিভাগের বিবরণ লোড হচ্ছে"
+
+msgid "Loading Coupon details"
+msgstr "কুপন বিবরণ লোড হচ্ছে"
+
+msgid "Maximum spend"
+msgstr "সর্বোচ্চ ব্যয়"
+
+msgid "Message Settings"
+msgstr "বার্তা সেটিংস"
+
+msgid "Minimum spend"
+msgstr "ন্যূনতম ব্যয়"
+
+msgid "Missing dependency"
+msgstr "অনুপস্থিত নির্ভরতা"
+
+msgid "Monday"
+msgstr "সোমবার"
+
+msgid "Multiple Rules Conditions"
+msgstr "একাধিক নিয়ম শর্তাবলী"
+
+msgid "New"
+msgstr "নতুন"
+
+msgid "Next"
+msgstr "পরবর্তী"
+
+msgid "No"
+msgstr "না"
+
+msgid "No %{type} found"
+msgstr "কোনো %{type} পাওয়া যায়নি"
+
+msgid "No category found with these ids"
+msgstr "এই আইডিগুলির সাথে কোনও বিভাগ পাওয়া যায়নি"
+
+msgid "No change for update"
+msgstr "আপডেটের জন্য কোন পরিবর্তন নেই"
+
+msgid "No coupon found"
+msgstr "কোন কুপন পাওয়া যায়নি"
+
+msgid "No coupon found with this id"
+msgstr "এই আইডির সাথে কোন কুপন পাওয়া যায়নি"
+
+msgid "No End date"
+msgstr "কোন শেষ তারিখ নেই"
+
+msgid "Not Enable"
+msgstr "সক্ষম নয়"
+
+msgid "Ok"
+msgstr "ঠিক আছে"
+
+msgid "Online Sale"
+msgstr "অনলাইন বিক্রয়"
+
+#, php-format
+msgid "Percentage Amount(%s)"
+msgstr "শতাংশ পরিমাণ (%s)"
+
+msgid "Percentage discount"
+msgstr "শতাংশ ছাড়"
+
+msgid "Percentage Upto"
+msgstr "শতাংশ পর্যন্ত"
+
+msgid "Percentage(%)"
+msgstr "শতাংশ (%)"
+
+msgid "Please Install Vitepos"
+msgstr "Vitepos ইনস্টল করুন"
+
+msgid "Premium Support"
+msgstr "প্রিমিয়াম সমর্থন"
+
+msgid "Premium support 24/7."
+msgstr "প্রিমিয়াম সমর্থন 24/7."
+
+msgid "Pro"
+msgstr "প্রো"
+
+msgid "Pro Version"
+msgstr "প্রো সংস্করণ"
+
+msgid "Pro version"
+msgstr "প্রো সংস্করণ"
+
+msgid "pro version"
+msgstr "প্রো সংস্করণ"
+
+msgid "Product categories"
+msgstr "পণের ধরন"
+
+msgid "Products"
+msgstr "পণ্য"
+
+msgid "Property"
+msgstr "সম্পত্তি"
+
+msgid "Published"
+msgstr "প্রকাশিত হয়েছে"
+
+msgid "Redirect URL after applied invalid coupon"
+msgstr "অবৈধ কুপন প্রয়োগ করার পরে পুনঃনির্দেশ URL করুন"
+
+msgid "Redirect URL after applying coupon"
+msgstr "কুপন প্রয়োগ করার পরে পুনঃনির্দেশ URL করুন"
+
+msgid "Reset"
+msgstr "রিসেট"
+
+msgid "Role error message"
+msgstr "ভূমিকা ত্রুটি বার্তা"
+
+msgid "Role Restriction"
+msgstr "ভূমিকা সীমাবদ্ধতা"
+
+#| msgid "Safe & Secure System"
+msgid "Safe and Secure System"
+msgstr "নিরাপদ এবং সুরক্ষিত সিস্টেম"
+
+msgid "Saturday"
+msgstr "শনিবার"
+
+msgid "Save Changes"
+msgstr "পরিবর্তনগুলোর সংরক্ষন"
+
+msgid "Saved Successfully"
+msgstr "সফলভাবে সংরক্ষিত"
+
+msgid "Saving Coupon..."
+msgstr "কুপন সংরক্ষণ করা হচ্ছে..."
+
+msgid "Scheduler"
+msgstr "সময়সূচী"
+
+msgid "Scheduler End Time Error Message"
+msgstr "সময়সূচী শেষ সময় ত্রুটি বার্তা"
+
+msgid "Scheduler Settings"
+msgstr "সময়সূচী সেটিংস"
+
+msgid "Scheduler Start Time Error Message"
+msgstr "সময়সূচী শুরুর সময় ত্রুটি বার্তা"
+
+msgid "Search"
+msgstr "অনুসন্ধান করুন"
+
+msgid "Select"
+msgstr "নির্বাচন"
+
+msgid "Select Outlets"
+msgstr "আউটলেট নির্বাচন করুন"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Smart Coupon"
+msgstr "স্মার্ট কুপন"
+
+msgid "Smart Coupon."
+msgstr "স্মার্ট কুপন."
+
+msgid "Start Date"
+msgstr "শুরুর তারিখ"
+
+msgid "Start date"
+msgstr "শুরুর তারিখ"
+
+msgid "Status"
+msgstr "স্ট্যাটাস"
+
+msgid "Sub-Directory URL"
+msgstr "সাব-ডিরেক্টরি URL টি"
+
+msgid "Submit"
+msgstr "জমা দিন"
+
+msgid "Success message"
+msgstr "সফলতার বার্তা"
+
+msgid "Successfully added"
+msgstr "সফলভাবে যোগ করা হয়েছে"
+
+msgid "Successfully deleted"
+msgstr "সফলভাবে মুছে ফেলা হয়েছে৷"
+
+msgid "Successfully outlet updated"
+msgstr "সফলভাবে আউটলেট আপডেট করা হয়েছে৷"
+
+msgid "Successfully status changed"
+msgstr "সফলভাবে স্থিতি পরিবর্তন করা হয়েছে৷"
+
+msgid "Successfully updated"
+msgstr "সফলভাবে আপডেট"
+
+msgid "Sunday"
+msgstr "রবিবার"
+
+msgid "The prefix to be utilized preceding the coupon code."
+msgstr "কুপন কোডের পূর্বে ব্যবহার করা উপসর্গ।"
+
+msgid ""
+"This Message will appear if the applied coupon has not yet become active."
+msgstr "প্রয়োগ করা কুপন এখনও সক্রিয় না হলে এই বার্তাটি প্রদর্শিত হবে।"
+
+msgid ""
+"This message will appear when the functionality for coupon URLs is disabled."
+msgstr "কুপন URL-এর কার্যকারিতা নিষ্ক্রিয় হলে এই বার্তাটি উপস্থিত হবে৷"
+
+msgid ""
+"This message will be displayed when the user usage limit has been surpassed."
+msgstr "ব্যবহারকারীর ব্যবহারের সীমা অতিক্রম করা হলে এই বার্তাটি প্রদর্শিত হবে।"
+
+msgid ""
+"This message will be shown when the coupon is deemed invalid for the "
+"specified role."
+msgstr ""
+"এই বার্তাটি প্রদর্শিত হবে যখন নির্দিষ্ট ভূমিকার জন্য কুপনটি অবৈধ বলে গণ্য "
+"হবে৷"
+
+msgid ""
+"This message will be shown when the coupon usage limit has been exceeded."
+msgstr "কুপন ব্যবহারের সীমা অতিক্রম করা হলে এই বার্তাটি দেখানো হবে।"
+
+msgid ""
+"This message will show up when attempting to apply a coupon that has already "
+"passed its expiration date."
+msgstr ""
+"একটি কুপন প্রয়োগ করার চেষ্টা করার সময় এই বার্তাটি প্রদর্শিত হবে যা "
+"ইতিমধ্যেই এর মেয়াদ শেষ হয়ে গেছে।"
+
+msgid ""
+"This will redirect the user to the provided URL if an invalid coupon has "
+"been applied."
+msgstr ""
+"এটি ব্যবহারকারীকে প্রদত্ত URL-এ পুনঃনির্দেশ করবে যদি একটি অবৈধ কুপন প্রয়োগ "
+"করা হয়।"
+
+msgid "Thursday"
+msgstr "বৃহস্পতিবার"
+
+msgid "Time Scheduler"
+msgstr "সময় নির্ধারণকারী"
+
+msgid "Title"
+msgstr "শিরোনাম"
+
+msgid "To unlock these features, you need"
+msgstr "এই বৈশিষ্ট্যগুলি আনলক করতে, আপনার প্রয়োজন"
+
+msgid "Tuesday"
+msgstr "মঙ্গলবার"
+
+msgid "Unknown"
+msgstr "অজানা"
+
+msgid "Unlock Pro"
+msgstr "প্রো আনলক করুন"
+
+msgid "Update Coupon"
+msgstr "কুপন আপডেট করুন"
+
+msgid "Update Error Exc:"
+msgstr "আপডেট ত্রুটি Exc:"
+
+msgid "Update Failed"
+msgstr "হালনাগাদ ব্যর্থ হয়েছে"
+
+msgid "Updating Category"
+msgstr "বিভাগ আপডেট করা হচ্ছে"
+
+msgid "Updating Coupon..."
+msgstr "কুপন আপডেট করা হচ্ছে..."
+
+msgid ""
+"Upon attempting to apply the coupon, users will be redirected to the "
+"provided URL."
+msgstr ""
+"কুপন প্রয়োগ করার চেষ্টা করার পরে, ব্যবহারকারীদের প্রদত্ত URL-এ "
+"পুনঃনির্দেশিত করা হবে।"
+
+msgid "Upto"
+msgstr "পর্যন্ত"
+
+msgid "Url Coupon."
+msgstr "URL কুপন।"
+
+msgid "URL Coupons"
+msgstr "URL টি কুপন"
+
+msgid "URL prefix"
+msgstr "URL টি উপসর্গ"
+
+#| msgid "Url Settings"
+msgid "URL Settings"
+msgstr "URL সেটিংস."
+
+msgid "Usage Settings"
+msgstr "ব্যবহারের সেটিংস"
+
+msgid "Usage/Limit"
+msgstr "ব্যবহার/সীমা"
+
+msgid ""
+"Use your online store as local store with Vitepos. A Powerful Point of Sale "
+"(POS) for Restaurant Point of sale (POS) plugin for Wordpress & Woocommerce."
+msgstr ""
+"Vitepos এর সাথে স্থানীয় স্টোর হিসাবে আপনার, বাংলাদেশ স্টোর ব্যবহার করুন। "
+"ওয়ার্ডপ্রেস এবং ওয়ার্ডপ্রেস-এর জন্য রেস্তোরাঁ পয়েন্ট অফ টা (পিওএস) "
+"প্লাগইন-এর জন্য একটি শক্তিশালী পয়েন্ট অফ টা (পিওএস)।"
+
+msgid "User Usage Error Message"
+msgstr "ব্যবহারকারীর ব্যবহার ত্রুটি বার্তা"
+
+msgid "User Usage Limit"
+msgstr "ব্যবহারকারীর ব্যবহারের সীমা"
+
+msgid ""
+"Users will be redirected to the provided URL in the event of applying valid "
+"coupon."
+msgstr ""
+"বৈধ কুপন প্রয়োগ করার ক্ষেত্রে ব্যবহারকারীদের প্রদত্ত URL-এ পুনঃনির্দেশিত "
+"করা হবে।"
+
+msgid "Value"
+msgstr "মান"
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr ""
+"%{ totalRecord } রেকর্ডের মধ্যে %{ startRecord } থেকে %{ endRecord } দেখা "
+"হচ্ছে"
+
+msgid "Vite Coupon"
+msgstr "দ্রুত কুপন"
+
+msgid "Vitepos"
+msgstr "ভিটেপোস"
+
+msgid "Vitepos Outlets"
+msgstr "ভিটেপোস আউটলেট"
+
+msgid "Vouchers"
+msgstr "ভাউচার"
+
+msgid ""
+"We are always available 24/7 to offer support for your business needs. "
+"Appsbd has more than 5 years of experience."
+msgstr ""
+"আমরা সবসময় উপলব্ধ 24/7 সমর্থন দিতে আপনার ব্যবসার জন্য প্রয়োজন. Appsbd অধিক "
+"5 বছরের অভিজ্ঞতা."
+
+msgid "Wednesday"
+msgstr "বুধবার"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid "You are not allowed to use this coupon"
+msgstr "আপনি এই কুপন ব্যবহার করার অনুমতি দেওয়া হয় না"
+
+msgid "You need Pro version,to use product voucher."
+msgstr "পণ্য ভাউচার ব্যবহার করতে আপনার প্রো সংস্করণ প্রয়োজন।"
+
+msgid "You will get premium support"
+msgstr "আপনি প্রিমিয়াম সমর্থন পাবেন"
+
+msgid "You will get these features in pro version"
+msgstr "আপনি এই বৈশিষ্ট্যগুলি প্রো সংস্করণে পাবেন"
+
+msgid "You will get these features in pro version."
+msgstr "আপনি এই বৈশিষ্ট্যগুলি প্রো সংস্করণে পাবেন।"
